@@ -1,4 +1,6 @@
 #Life Simulator (Python + Tkinter)
+
+
 Life Simulator is a small interactive life management game built with Python and Tkinter GUI.
 The player starts as an 18-year-old character with basic stats such as money, hunger, mood, intelligence, and charm.
 Each day brings new random events, choices, and challenges that influence the player’s life path.
